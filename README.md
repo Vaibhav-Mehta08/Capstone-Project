@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Project Global Superstore
 
 Shopping online is currently the need of the hour. Because of this COVID, it's not easy to walk in a store randomly and buy anything you want. 
 We are trying to understand how is the product price varying with sales - Is there any increase in sales with the decrease in price at a day level.
